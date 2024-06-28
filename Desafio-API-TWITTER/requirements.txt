@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pymongo
+tweepy
+reportlab
+streamlit
+command:python.viewOutput
